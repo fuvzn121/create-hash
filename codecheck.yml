@@ -1,0 +1,3 @@
+test:
+  rspec -P tests/*
+  

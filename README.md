@@ -1,1 +1,1 @@
-# create hash bot on Ruby
+# ハッシュ値っぽいの生成するだけのアレ
